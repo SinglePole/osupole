@@ -1,5 +1,5 @@
 # osu-Pole
-## 基于Magick.NET实现的osu!数据可视化跨平台高性能解决方案
+## 基于[Magick.NET](https://github.com/dlemstra/Magick.NET)实现的osu!数据可视化跨平台高性能解决方案
 进度:龟速开发中...  
 
 ### 当前阶段效果:  
@@ -14,3 +14,6 @@
 
 ### 声明
 #### 一切开发旨在学习，请勿用于非法用途  
+
+### 鸣谢
+#### [KanoBot](https://github.com/Monodesu/KanonBot)提供pp计算器方案
