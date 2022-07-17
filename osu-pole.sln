@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "osu-pole", "osu-pole.csproj", "{CA2CBA65-674C-4AFD-8223-D44FD85604AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA2CBA65-674C-4AFD-8223-D44FD85604AF}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{CA2CBA65-674C-4AFD-8223-D44FD85604AF}.Debug|Any CPU.Build.0 = Debug|x64
+		{CA2CBA65-674C-4AFD-8223-D44FD85604AF}.Debug|ARM64.ActiveCfg = Debug|Any CPU
+		{CA2CBA65-674C-4AFD-8223-D44FD85604AF}.Debug|ARM64.Build.0 = Debug|Any CPU
+		{CA2CBA65-674C-4AFD-8223-D44FD85604AF}.Debug|x64.ActiveCfg = Debug|x64
+		{CA2CBA65-674C-4AFD-8223-D44FD85604AF}.Debug|x64.Build.0 = Debug|x64
+		{CA2CBA65-674C-4AFD-8223-D44FD85604AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA2CBA65-674C-4AFD-8223-D44FD85604AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA2CBA65-674C-4AFD-8223-D44FD85604AF}.Release|ARM64.ActiveCfg = Release|ARM64
+		{CA2CBA65-674C-4AFD-8223-D44FD85604AF}.Release|ARM64.Build.0 = Release|ARM64
+		{CA2CBA65-674C-4AFD-8223-D44FD85604AF}.Release|x64.ActiveCfg = Release|Any CPU
+		{CA2CBA65-674C-4AFD-8223-D44FD85604AF}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65D883C9-F703-4D4F-9A44-89188D9F4E59}
+	EndGlobalSection
+EndGlobal
