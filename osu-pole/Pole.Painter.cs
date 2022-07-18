@@ -82,8 +82,6 @@ namespace osuPole
                     }
                     //置入用戶名、地区名
                     {
-
-
                         new Drawables()
                             .FontPointSize(72)
                             .Gravity(Gravity.Forget)
@@ -96,7 +94,7 @@ namespace osuPole
                             .Gravity(Gravity.Forget)
                             .Font(respath + @"\resources\fonts\Torus-Regular.otf")
                             .FillColor(new MagickColor("white"))
-                            .Text(455, 355, "German")
+                            .Text(455, 355, tools.GetCountryOneFull(user.country))
                             .Draw(image);
                         //new Drawables()
                         //    .FontPointSize(42)
